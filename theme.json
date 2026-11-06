@@ -1,0 +1,13 @@
+{
+  "id": "zen-space-to-folder",
+  "name": "Zen Space to Folder",
+  "version": "1.0.3",
+  "description": "Turn a Zen workspace into a collapsed folder in a chosen workspace, preserving subfolders and tab order.",
+  "author": "AimeLouis",
+  "homepage": "https://github.com/AimeLouis/zen-space-to-folder",
+  "scripts": {
+    "space-to-folder.uc.js": {
+      "include": ["chrome://browser/content/browser[.]xhtml"]
+    }
+  }
+}
